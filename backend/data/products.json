@@ -1,0 +1,155 @@
+[
+    {
+        "name": "Guitar",
+        "price": 1200,
+        "description": "A great guitar",
+        "images": [
+            {
+                "public_id": "products/guitar1",
+                "url": "https://randeesmusic.com/wp-content/uploads/2016/04/Breedlove-Discovery-Concert-Ce-Sunburst-Acoustic-Electric-Guitar-2.jpg"
+            }
+        ],
+        "category": "Stringed instruments",
+        "seller": "Seller 1",
+        "stock": 1,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Electric Guitar",
+        "price": 2000,
+        "description": "A solid guitar",
+        "images": [
+            {
+                "public_id": "products/guitar2",
+                "url": "http://images.richtonemusic.co.uk/product/IBANGRG170DX-BKNb.jpg"
+            }
+        ],
+        "category": "Stringed instruments",
+        "seller": "Seller 2",
+        "stock": 4,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Flute",
+        "price": 499,
+        "description": "Nice flute",
+        "images": [
+            {
+                "public_id": "products/flut1",
+                "url": "https://www.rekorsanat.com.tr/images/blog/yan-flut-2.jpg"
+            }
+        ],
+        "category": "Wind instruments",
+        "seller": "Seller 3",
+        "stock": 10,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Horn",
+        "price": 799,
+        "description": "Hunting horn",
+        "images": [
+            {
+                "public_id": "products/horn1",
+                "url": "https://dygtyjqp7pi0m.cloudfront.net/i/38739/33509483_10.jpg"
+            }
+        ],
+        "category": "Wind instruments",
+        "seller": "Seller 3",
+        "stock": 2,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Angélique",
+        "price": 799,
+        "description": "Stringed horn",
+        "images": [
+            {
+                "public_id": "products/angelique1",
+                "url": "https://i.pinimg.com/originals/b0/63/aa/b063aaf0eaeab371868169f89db14f20.jpg"
+            }
+        ],
+        "category": "Wind instruments",
+        "seller": "Seller 3",
+        "stock": 2,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Keyboard",
+        "price": 1499,
+        "description": "Yamaha PSR e363",
+        "images": [
+            {
+                "public_id": "products/keyboardYamaha",
+                "url": "https://medias.audiofanzine.com/images/normal/yamaha-psr-e363-2770946.jpg"
+            }
+        ],
+        "category": "Electronic instruments",
+        "seller": "Seller 3",
+        "stock": 2,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Maracas",
+        "price": 399,
+        "description": "Maracas",
+        "images": [
+            {
+                "public_id": "products/maracas",
+                "url": "https://www.long-mcquade.com/files/20421/lg_gp-maraca1.jpg"
+            }
+        ],
+        "category": "Percussion instruments",
+        "seller": "Seller 3",
+        "stock": 1,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Gibson EB2",
+        "price": 799,
+        "description": "Gibson EB2",
+        "images": [
+            {
+                "public_id": "products/GibsonEB2",
+                "url": "https://classicandcoolguitars.co.uk/wp-content/uploads/2016/03/Gibson-EB2-5.jpg"
+            }
+        ],
+        "category": "Stringed instruments",
+        "seller": "Seller 3",
+        "stock": 1,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    },
+    {
+        "name": "Gibson",
+        "price": 1100,
+        "description": "Gibson",
+        "images": [
+            {
+                "public_id": "products/Gibson",
+                "url": "https://images.reverb.com/image/upload/s--WYidCtMU--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1501617490/wfrfd4etyig7ep7sxboa.jpg"
+            }
+        ],
+        "category": "Stringed instruments",
+        "seller": "Seller 3",
+        "stock": 1,
+        "numOfReviews": 0,
+        "reviews": [],
+        "user": "602c528d0ce916178198ce2d"
+    }
+]
