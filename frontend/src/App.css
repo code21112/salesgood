@@ -282,7 +282,15 @@ footer {
   text-align: center;
 }
 
-.plus,
+/* .plus,
+.minus {
+  padding: 0.1rem 0.5rem;
+} */
+
+.plus {
+  padding: 0.1rem 0.4rem;
+}
+
 .minus {
   padding: 0.1rem 0.5rem;
 }
