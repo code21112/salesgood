@@ -72,10 +72,9 @@ const Cart = ({ history }) => {
 
                                                 <div className="col-4 col-lg-3 mt-4 mt-lg-0">
                                                     <div className="stockCounter d-inline">
-                                                        <span className="btn btn-danger minus" onClick={() => decreaseQty(item.product, item.quantity)}>-</span>
-                                                        <input type="number" className="form-control count d-inline" value={item.quantity} readOnly />
-
                                                         <span className="btn btn-primary plus" onClick={() => increaseQty(item.product, item.quantity, item.stock)}>+</span>
+                                                        <input type="number" className="form-control count d-inline" value={item.quantity} readOnly />
+                                                        <span className="btn btn-danger minus" onClick={() => decreaseQty(item.product, item.quantity)}>-</span>
                                                     </div>
                                                 </div>
 

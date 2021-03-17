@@ -62,12 +62,10 @@ function App() {
     async function getStripeApiKey() {
       const { data } = await axios.get('/api/v1/stripeapi');
       setStripeApiKey(data.stripeApiKey)
-      // console.log('In App.js inside useEffect', stripeApiKey)
-
+      // console.log('In App.js inside useEffect', data.stripeApiKey)
     }
     getStripeApiKey();
-    // console.log('In App.js inside useEffect after getStripeApiKey', stripeApiKey)
-
+    console.log('In App.js inside useEffect after getStripeApiKey', stripeApiKey)
   }, [])
 
   const { user, isAuthenticated, loading } = useSelector(state => state.authFromStore);
